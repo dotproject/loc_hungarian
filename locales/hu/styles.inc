@@ -1,6 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"classic"=>"A klasszikus dotproject stílus",
-"default"=>"Alap tiszta stílus",
+"classic"=>"\"Classic dotProject\" stílus",
+"default"=>"\"Clean\" stílus (alapértelmezett)",
 "demo1"=>"Demo stílus",
