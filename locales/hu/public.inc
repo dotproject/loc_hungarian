@@ -1,10 +1,14 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"Access Denied",
-"Color Selector",
-"Preset",
-"accessDeniedMsg"=>"<p>You have attemped to access an item in dotproject without the sufficient permissions to do so.</p><p>Please contact the dotproject System Administrator.</p>",
-"colorLegend"=>"Choose a color to uniquely identify your selection and close the Color Selector.",
-"nodepartments, companies, permissions",
-"notasks"=>"No Tasks available",
+"Access Denied"=>"Hozzáférés megtagadva",
+"Color Selector"=>"Színválasztó",
+"Preset"=>"Beállítás",
+"accessDeniedMsg"=>"<p>Ön megfelelõ jogosultság nélkül próbált elérni egy szoftvermodult.</p><p>Kérem keresse fel a rendszeradminisztrátort.</p>",
+"colorLegend"=>"Válasszon egy színt a megjelenítendõ objektumnak, majd zárja be a színválasztót!",
+"nodepartments, companies, permissions"=>"nincs részleg, cég vagy jogosultság",
+"notasks"=>"Nincsenek feladatok",
+""=>"Hozzáférés megtagadva",
+"1"=>"Color Selector",
+"2"=>"Preset",
+"3"=>"nodepartments, companies, permissions",
